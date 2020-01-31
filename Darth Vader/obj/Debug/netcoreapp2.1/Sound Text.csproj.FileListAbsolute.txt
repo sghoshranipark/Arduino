@@ -1,0 +1,11 @@
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\bin\Debug\netcoreapp2.1\Sound Text.deps.json
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\bin\Debug\netcoreapp2.1\Sound Text.runtimeconfig.json
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\bin\Debug\netcoreapp2.1\Sound Text.runtimeconfig.dev.json
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\bin\Debug\netcoreapp2.1\Sound Text.dll
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\bin\Debug\netcoreapp2.1\Sound Text.pdb
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.csprojAssemblyReference.cache
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.csproj.CoreCompileInputs.cache
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.AssemblyInfoInputs.cache
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.AssemblyInfo.cs
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.dll
+C:\Users\ghosh\Google Drive\VSProject\Sound Text\Sound Text\obj\Debug\netcoreapp2.1\Sound Text.pdb
